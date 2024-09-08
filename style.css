@@ -1,12 +1,20 @@
 h1{
-  background-color: hwb(251 37% 1%);  
+  background-color: hwb(251 37% 1%);
+  font-style inherit; 
   text-align: center;
   line-height:2;
 }
 h2{
-    background-color: hwb(251 37% 1%);  
+    background-color: none;
     text-align: center;
     line-height:2;
+    padding-bottom: 20px;
+}
+h4{
+  background-color: none;
+  text-align: center;
+  line-height:2;
+  padding-bottom: 20px;
 }
 .text {
     border:1px solid white;
@@ -17,6 +25,7 @@ ul{
    margin: 0;
    content:5px; 
 }
-body{
-width:850px;
+form{
+  padding-top: 30px
 }
+

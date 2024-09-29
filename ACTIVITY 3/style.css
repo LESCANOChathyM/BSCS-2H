@@ -1,0 +1,22 @@
+h1{
+  background-color: hwb(251 37% 1%);  
+  text-align: center;
+  line-height:2;
+}
+h2{
+    background-color: hwb(251 37% 1%);  
+    text-align: center;
+    line-height:2;
+}
+.text {
+    border:1px solid white;
+    position: static relative;
+}
+ul{
+   list-style-type:none;  
+   margin: 0;
+   content:5px; 
+}
+body{
+width:850px;
+}
